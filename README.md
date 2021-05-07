@@ -6,7 +6,6 @@ My name is Pablo Zenteno, I'm from Chile and I'm a Full Stack Developer.
 
 ## Skills
 
-* Using Kubernetes in Production since 2016
 * Developing with golang since 2018
 * Mobile development with flutter since 2019
 * Developing with java since 2019
