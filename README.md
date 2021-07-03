@@ -16,6 +16,7 @@ Currently working for [Walmart Chile](https://www.linkedin.com/company/walmart-c
 
 ## Contact
 
-![Linkedin](https://img.shields.io/badge/-pzentenoe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pzentenoe/)
-![Twitter: pazentenoe](https://img.shields.io/twitter/follow/pazentenoe?style=social)
-![GitHub: pzentenoe](https://img.shields.io/github/followers/pzentenoe?label=follow&style=social)
+![Linkedin](https://img.shields.io/badge/-pzentenoe-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pzentenoe/)
+![Twitter: pazentenoe](https://img.shields.io/badge/-@pazentenoe-white?style=square&logo=twitter&link=https://github.com/pzentenoe)
+![GitHub: pzentenoe](https://img.shields.io/badge/-pzentenoe-white?style=square&logo=github&logoColor=black&link=https://github.com/pzentenoe)
+![Notion](https://img.shields.io/badge/-pzentenoe-white?style=square&logo=Notion&logoColor=black&link=https://www.notion.so/Pablo-Alberto-Zenteno-Escarate-5fef62c164ca4f64b2c061872d70486d)
