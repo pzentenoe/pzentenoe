@@ -20,6 +20,7 @@ I'm Pablo Zenteno, passionate about technology and a software developer. Current
 * React JS
 * Node
 * Echo
+* Spring Boot
 
 ## Infra
 * Cloud: Azure, AWS.
